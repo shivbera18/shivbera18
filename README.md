@@ -3,7 +3,7 @@
 ### Hi, I'm **Shiv** 👋
 
 - **Full-stack engineer** - I like building scalable systems and optimizing for performance.
-- **Competitive programmer** - Candidate Master @ Codefrocees (**1913**) - [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18) & CodeChef 4★ (**1817**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
+- **Competitive programmer** - Candidate Master @ Codefrocees (**1913**) - [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18) | CodeChef 4★ (**1817**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 
 **Portfolio:** [shivcdhry.vercel.app](https://shivcdhry.vercel.app)  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shiv-ratan-choudhary)
