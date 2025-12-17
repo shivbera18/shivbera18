@@ -5,32 +5,22 @@
 **Competitive programmer** (Codeforces <span style="color:#ff69b4"><b>Candidate Master</b></span>, **1913** • CodeChef **4**<span style="color:#f1c40f"><b>★</b></span>, **1817**) • **Backend engineer** • I like building scalable systems and optimizing for performance.
 
 **Portfolio:** [shivcdhry.vercel.app](https://shivcdhry.vercel.app)  
-**LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shiv-ratan-choudhary)  
-**Codeforces:** [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18)  
-**CodeChef:** [fast_sand_38](https://www.codechef.com/users/fast_sand_38)  
-**LeetCode:** [shivchoudhary18](https://leetcode.com/u/shivchoudhary18)  
-**Email:** [shivbera45@gmail.com](mailto:shivbera45@gmail.com)
+**LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shiv-ratan-choudhary)
 
 ---
 
 ### A small story (why I build)
-I started with competitive programming because it’s the fastest way to learn how to think clearly under constraints.  
-Then I realized the same mindset applies to backend engineering: keep the system simple, make it fast, and make it reliable.
-
-These days I enjoy shipping products, measuring bottlenecks, and iterating until things feel “smooth”.
+I like building software the same way I approach contests: be clear, be fast, and be consistent.  
+Ship, measure bottlenecks, iterate.
 
 ### Notes from the grind
 - Shipping full-stack apps end-to-end (Next.js/React → Node/FastAPI → Postgres) with a focus on clean UX and fast APIs
-- Building systems that hold up under real use (auth, caching patterns, DB indexes, profiling slow queries)
-- Competing in contests and tightening fundamentals (CF **1913** • CodeChef **4**<span style="color:#f1c40f"><b>★</b></span> (**1817**))
-- Mixing ML + engineering when it’s actually useful (Siamese models, deployment pipelines, measurable improvements)
-
-### Building prospects
-I keep a running list of ideas and weekend experiments. If you’re building something ambitious (or weird in a good way), I’m open to collaborating.
+- Performance + reliability work (profiling, DB indexes, caching patterns, clean APIs)
+- Contests to sharpen fundamentals (CF **1913** • CodeChef **4**<span style="color:#f1c40f"><b>★</b></span> **1817**)
 
 ### Highlights (tldr)
-- **Codeforces** <span style="color:#ff69b4"><b>Candidate Master</b></span> — Rating **1913** (Global Rank **89** in CF Round 1057 Div.2 among 23k+)
-- **CodeChef 4**<span style="color:#f1c40f"><b>★</b></span> — Rating **1817**
+- **Codeforces** <span style="color:#ff69b4"><b>Candidate Master</b></span> — Rating **1913** (Global Rank **89** in CF Round 1057 Div.2 among 23k+) — [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18)
+- **CodeChef 4**<span style="color:#f1c40f"><b>★</b></span> — Rating **1817** — [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 - **All India Rank 42** — Naukri EROH Case Study Challenge (Deep Learning for Dark-Store Optimization)
 - **Internships:** BigBrick (SDE Intern) • Shri Asharam Memorial Navjeevan Hospital (Biometric Data & AI Intern)
 - **Academics:** B.Tech ECE @ NIT Srinagar (CGPA **8.29/10**) • **District Rank 1** (Class 12, **100%**) • **Subdivision Rank 1** (Class 10, **95.67%**)
