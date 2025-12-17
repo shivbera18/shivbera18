@@ -2,7 +2,8 @@
 
 ### Hi, I'm **Shiv** 👋
 
-**Competitive programmer** (Codeforces <span style="color:#ff69b4"><b>Candidate Master</b></span>, **1913** • CodeChef **4**<span style="color:#f1c40f"><b>★</b></span>, **1817**) • **Backend engineer** • I like building scalable systems and optimizing for performance.
+- **Full-stack engineer** — I like building scalable systems and optimizing for performance.
+- **Competitive programmer** — Codeforces <span style="color:#ff69b4"><b>Candidate Master</b></span> (**1913**) • CodeChef **4**<span style="color:#f1c40f"><b>★</b></span> (**1817**)
 
 **Portfolio:** [shivcdhry.vercel.app](https://shivcdhry.vercel.app)  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shiv-ratan-choudhary)
@@ -23,8 +24,10 @@ Ship, measure bottlenecks, iterate.
 - **CodeChef 4**<span style="color:#f1c40f"><b>★</b></span> — Rating **1817** — [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 - **All India Rank 42** — Naukri EROH Case Study Challenge (Deep Learning for Dark-Store Optimization)
 - **Internships:**
-  - **BigBrick** — Software Development Intern (May 2025 – Oct 2025): 15+ production enhancements, Lighthouse **92/100**, +18% matching accuracy
-  - **Shri Asharam Memorial Navjeevan Hospital** — Biometric Data & AI Intern (Dec 2024 – Feb 2025): Siamese verification **98.6%**, 400+ daily transactions
+  - **BigBrick — Software Development Intern** (May 2025 – Oct 2025)
+    - 15+ production enhancements • Lighthouse **92/100** • +18% matching accuracy
+  - **Shri Asharam Memorial Navjeevan Hospital — Biometric Data & AI Intern** (Dec 2024 – Feb 2025)
+    - Siamese verification **98.6%** • 400+ daily transactions • 99.5% uptime
 - **Academics:** B.Tech ECE @ NIT Srinagar (CGPA **8.29/10**) • **District Rank 1** (Class 12, **100%**) • **Subdivision Rank 1** (Class 10, **95.67%**)
 
 ---
@@ -33,7 +36,7 @@ Ship, measure bottlenecks, iterate.
 - **Languages**: C++ • Java • Go • Python • TypeScript • JavaScript
 - **Frontend**: React • Next.js • Tailwind CSS • shadcn/ui
 - **Backend**: Node.js • Express.js • FastAPI • PostgreSQL (Neon/Supabase)
-- **ML**: PyTorch • TensorFlow • NumPy • Pandas • TensorFlow.js
+- **ML**: PyTorch • NumPy • Pandas • scikit-learn • TensorFlow.js
 - **Tools**: Docker • Git
 - **CP**:  
   ![Codeforces](https://img.shields.io/badge/Codeforces-1913-1F8ACB?logo=codeforces&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85%20%7C%201817-5B4638?logo=codechef&logoColor=white)
