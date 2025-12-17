@@ -38,54 +38,16 @@ Ship, measure bottlenecks, iterate.
 - **Backend**: Node.js • Express.js • FastAPI • PostgreSQL (Neon/Supabase)
 - **ML**: PyTorch • NumPy • Pandas • scikit-learn • TensorFlow.js
 - **Tools**: Docker • Git
-- **CP**:  
-  ![Codeforces](https://img.shields.io/badge/Codeforces-1913-1F8ACB?logo=codeforces&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85%20%7C%201817-5B4638?logo=codechef&logoColor=white)
+- **CP**: ![Codeforces](https://img.shields.io/badge/Codeforces-1913-1F8ACB?style=flat&logo=codeforces&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85%20%7C%201817-5B4638?logo=codechef&logoColor=white)
 
 ---
 
 ### Some recent work highlights
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;">
-  <tr>
-    <td style="border:none;padding:0.25rem 0;">
-      <b>Artemus</b> — AI-powered banking exam platform (Next.js + Neon Postgres + Gemini AI)
-    </td>
-    <td align="right" style="border:none;padding:0.25rem 0;">
-      <a href="https://artimusquiz.vercel.app">Live</a> • <a href="https://github.com/shivbera18/quiz-repo">Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none;padding:0.25rem 0;">
-      <b>Optimized Matrix Multiplication</b> — DeepMind’s algorithms + Strassen/Winograd (C++)
-    </td>
-    <td align="right" style="border:none;padding:0.25rem 0;">
-      <a href="https://github.com/shivbera18/mat-mul">Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none;padding:0.25rem 0;">
-      <b>Arbitrary Style Transfer</b> — Browser-based style transfer (TF.js), optimized inference + dual-style blending
-    </td>
-    <td align="right" style="border:none;padding:0.25rem 0;">
-      <a href="https://arbitrary-style-transfer.vercel.app">Live</a> • <a href="https://github.com/shivbera18/arbitrary-style-transfer">Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none;padding:0.25rem 0;">
-      <b>Clone Code Detection</b> — Siamese Network + 3-layer BiLSTM (<b>50.3M parameters</b>, 97.2% on BigCloneBench)
-    </td>
-    <td align="right" style="border:none;padding:0.25rem 0;">
-      <a href="https://github.com/shivbera18/CloneCodeDetection">Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none;padding:0.25rem 0;">
-      <b>Rubik’s Cube Solver</b> — 3×3 simulator + Korf’s IDA* (C++)
-    </td>
-    <td align="right" style="border:none;padding:0.25rem 0;">
-      <a href="https://github.com/shivbera18/Rubiks-Cube-Solver">Repo</a>
-    </td>
-  </tr>
-</table>
+- **Artemus** — AI-powered banking exam platform · [Live](https://artimusquiz.vercel.app) · [Repo](https://github.com/shivbera18/quiz-repo)
+- **Optimized Matrix Multiplication** — DeepMind + Strassen/Winograd · [Repo](https://github.com/shivbera18/mat-mul)
+- **Arbitrary Style Transfer** — Browser style transfer (TF.js) · [Live](https://arbitrary-style-transfer.vercel.app) · [Repo](https://github.com/shivbera18/arbitrary-style-transfer)
+- **Clone Code Detection** — Siamese + 3-layer BiLSTM (50.3M params) · [Repo](https://github.com/shivbera18/CloneCodeDetection)
+- **Rubik’s Cube Solver** — 3×3 + IDA* · [Repo](https://github.com/shivbera18/Rubiks-Cube-Solver)
 
 ---
 
