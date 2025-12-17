@@ -41,7 +41,7 @@ Ship, measure bottlenecks, iterate.
 
 ### Some recent work highlights
 - **Artemus** — AI-powered banking exam platform · [Live](https://artimusquiz.vercel.app) · [Repo](https://github.com/shivbera18/quiz-repo)
-- **Optimized Matrix Multiplication** — DeepMind + Strassen/Winograd · [Repo](https://github.com/shivbera18/mat-mul)
+- **Optimized Matrix Multiplication** — DeepMind + Strassen/Winograd · [Repo](https://github.com/shivbera/matrix-mul)
 - **Arbitrary Style Transfer** — Browser style transfer (TF.js) · [Live](https://arbitrary-style-transfer.vercel.app) · [Repo](https://github.com/shivbera18/arbitrary-style-transfer)
 - **Clone Code Detection** — Siamese + 3-layer BiLSTM (50.3M params) · [Repo](https://github.com/shivbera18/CloneCodeDetection)
 - **Rubik’s Cube Solver** — 3×3 + IDA* · [Repo](https://github.com/shivbera18/Rubiks-Cube-Solver)
