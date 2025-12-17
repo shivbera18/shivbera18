@@ -3,7 +3,7 @@
 ### Hi, I'm **Shiv** 👋
 
 - **Full-stack engineer** — I like building scalable systems and optimizing for performance.
-- **Competitive programmer** — Codeforces <span style="color:#ff69b4"><b>Candidate Master</b></span> (**1913**) • CodeChef **4**<span style="color:#f1c40f"><b>★</b></span> (**1817**)
+- **Competitive programmer** — [![Codeforces](https://img.shields.io/badge/Codeforces-Candidate%20Master%201913-ff69b4?logo=codeforces&logoColor=white)](https://codeforces.com/profile/shivchoudhary.18) • [![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%AD%90%201817-F1C40F?logo=codechef&logoColor=white)](https://www.codechef.com/users/fast_sand_38)
 
 **Portfolio:** [shivcdhry.vercel.app](https://shivcdhry.vercel.app)  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shiv-ratan-choudhary)
@@ -17,11 +17,11 @@ Ship, measure bottlenecks, iterate.
 ### Notes from the grind
 - Shipping full-stack apps end-to-end (Next.js/React → Node/FastAPI → Postgres) with a focus on clean UX and fast APIs
 - Performance + reliability work (profiling, DB indexes, caching patterns, clean APIs)
-- Contests to sharpen fundamentals (CF **1913** • CodeChef **4**<span style="color:#f1c40f"><b>★</b></span> **1817**)
+- Contests to sharpen fundamentals (CF **1913** • CodeChef **4⭐ 1817**)
 
 ### Highlights (tldr)
-- **Codeforces** <span style="color:#ff69b4"><b>Candidate Master</b></span> — Rating **1913** — [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18)
-- **CodeChef 4**<span style="color:#f1c40f"><b>★</b></span> — Rating **1817** — [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
+- [![Codeforces](https://img.shields.io/badge/Codeforces-Candidate%20Master%201913-ff69b4?logo=codeforces&logoColor=white)](https://codeforces.com/profile/shivchoudhary.18)
+- [![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%AD%90%201817-F1C40F?logo=codechef&logoColor=white)](https://www.codechef.com/users/fast_sand_38)
 - **All India Rank 42** — Naukri EROH Case Study Challenge (Deep Learning for Dark-Store Optimization)
 - **Internships:**
   - **BigBrick — Software Development Intern** (May 2025 – Oct 2025)
