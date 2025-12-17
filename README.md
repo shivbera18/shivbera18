@@ -3,7 +3,7 @@
 ### Hi, I'm **Shiv** 👋
 
 - **Full-stack engineer** — I like building scalable systems and optimizing for performance.
-- **Competitive programmer** — [![Codeforces](https://img.shields.io/badge/Codeforces-Candidate%20Master%201913-ff69b4?logo=codeforces&logoColor=white)](https://codeforces.com/profile/shivchoudhary.18) • [![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%AD%90%201817-F1C40F?logo=codechef&logoColor=white)](https://www.codechef.com/users/fast_sand_38)
+- **Competitive programmer** — <a href="https://codeforces.com/profile/shivchoudhary.18"><img alt="Codeforces Candidate Master 1913" src="assets/badges/codeforces-cm-1913.svg" height="22" /></a> <a href="https://www.codechef.com/users/fast_sand_38"><img alt="CodeChef 4 star 1817" src="assets/badges/codechef-4star-1817.svg" height="22" /></a>
 
 **Portfolio:** [shivcdhry.vercel.app](https://shivcdhry.vercel.app)  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shiv-ratan-choudhary)
@@ -20,14 +20,11 @@ Ship, measure bottlenecks, iterate.
 - Contests to sharpen fundamentals (CF **1913** • CodeChef **4⭐ 1817**)
 
 ### Highlights (tldr)
-- [![Codeforces](https://img.shields.io/badge/Codeforces-Candidate%20Master%201913-ff69b4?logo=codeforces&logoColor=white)](https://codeforces.com/profile/shivchoudhary.18)
-- [![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%AD%90%201817-F1C40F?logo=codechef&logoColor=white)](https://www.codechef.com/users/fast_sand_38)
+- **CP:** <a href="https://codeforces.com/profile/shivchoudhary.18"><img alt="Codeforces Candidate Master 1913" src="assets/badges/codeforces-cm-1913.svg" height="20" /></a> <a href="https://www.codechef.com/users/fast_sand_38"><img alt="CodeChef 4 star 1817" src="assets/badges/codechef-4star-1817.svg" height="20" /></a>
 - **All India Rank 42** — Naukri EROH Case Study Challenge (Deep Learning for Dark-Store Optimization)
 - **Internships:**
   - **BigBrick — Software Development Intern** (May 2025 – Oct 2025)
-    - 15+ production enhancements • Lighthouse **92/100** • +18% matching accuracy
   - **Shri Asharam Memorial Navjeevan Hospital — Biometric Data & AI Intern** (Dec 2024 – Feb 2025)
-    - Siamese verification **98.6%** • 400+ daily transactions • 99.5% uptime
 - **Academics:** B.Tech ECE @ NIT Srinagar (CGPA **8.29/10**) • **District Rank 1** (Class 12, **100%**) • **Subdivision Rank 1** (Class 10, **95.67%**)
 
 ---
@@ -38,7 +35,7 @@ Ship, measure bottlenecks, iterate.
 - **Backend**: Node.js • Express.js • FastAPI • PostgreSQL (Neon/Supabase)
 - **ML**: PyTorch • NumPy • Pandas • scikit-learn • TensorFlow.js
 - **Tools**: Docker • Git
-- **CP**: ![Codeforces](https://img.shields.io/badge/Codeforces-1913-1F8ACB?style=flat&logo=codeforces&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85%20%7C%201817-5B4638?logo=codechef&logoColor=white)
+- **CP**: <a href="https://codeforces.com/profile/shivchoudhary.18"><img alt="Codeforces Candidate Master 1913" src="assets/badges/codeforces-cm-1913.svg" height="20" /></a> <a href="https://www.codechef.com/users/fast_sand_38"><img alt="CodeChef 4 star 1817" src="assets/badges/codechef-4star-1817.svg" height="20" /></a>
 
 ---
 
