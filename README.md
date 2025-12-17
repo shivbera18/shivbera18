@@ -3,7 +3,7 @@
 ### Hi, I'm **Shiv** 👋
 
 - **Full-stack engineer** — I like building scalable systems and optimizing for performance.
-- **Competitive programmer** — <a href="https://codeforces.com/profile/shivchoudhary.18"><img alt="Codeforces Candidate Master 1913" src="assets/badges/codeforces-cm-1913.svg" height="22" /></a> <a href="https://www.codechef.com/users/fast_sand_38"><img alt="CodeChef 4 star 1817" src="assets/badges/codechef-4star-1817.svg" height="22" /></a>
+- **Competitive programmer** — Codeforces Candidate Master (**1913**) — [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18) • CodeChef 4⭐ (**1817**) — [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 
 **Portfolio:** [shivcdhry.vercel.app](https://shivcdhry.vercel.app)  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shiv-ratan-choudhary)
@@ -20,7 +20,7 @@ Ship, measure bottlenecks, iterate.
 - Contests to sharpen fundamentals (CF **1913** • CodeChef **4⭐ 1817**)
 
 ### Highlights (tldr)
-- **CP:** <a href="https://codeforces.com/profile/shivchoudhary.18"><img alt="Codeforces Candidate Master 1913" src="assets/badges/codeforces-cm-1913.svg" height="20" /></a> <a href="https://www.codechef.com/users/fast_sand_38"><img alt="CodeChef 4 star 1817" src="assets/badges/codechef-4star-1817.svg" height="20" /></a>
+- **CP:** Codeforces Candidate Master (**1913**) — [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18) • CodeChef 4⭐ (**1817**) — [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 - **All India Rank 42** — Naukri EROH Case Study Challenge (Deep Learning for Dark-Store Optimization)
 - **Internships:**
   - **BigBrick — Software Development Intern** (May 2025 – Oct 2025)
@@ -35,7 +35,7 @@ Ship, measure bottlenecks, iterate.
 - **Backend**: Node.js • Express.js • FastAPI • PostgreSQL (Neon/Supabase)
 - **ML**: PyTorch • NumPy • Pandas • scikit-learn • TensorFlow.js
 - **Tools**: Docker • Git
-- **CP**: <a href="https://codeforces.com/profile/shivchoudhary.18"><img alt="Codeforces Candidate Master 1913" src="assets/badges/codeforces-cm-1913.svg" height="20" /></a> <a href="https://www.codechef.com/users/fast_sand_38"><img alt="CodeChef 4 star 1817" src="assets/badges/codechef-4star-1817.svg" height="20" /></a>
+- **CP**: Codeforces (**1913**) • CodeChef (4⭐ **1817**)
 
 ---
 
