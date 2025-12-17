@@ -2,8 +2,8 @@
 
 ### Hi, I'm **Shiv** 👋
 
-- **Full-stack engineer** — I like building scalable systems and optimizing for performance.
-- **Competitive programmer** — Codeforces Candidate Master (**1913**) — [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18) • CodeChef 4★ (**1817**) — [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
+- **Full-stack engineer** - I like building scalable systems and optimizing for performance.
+- **Competitive programmer** - Candidate Master @ Codefrocees (**1913**) — [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18) • CodeChef 4★ (**1817**) — [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 
 **Portfolio:** [shivcdhry.vercel.app](https://shivcdhry.vercel.app)  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shiv-ratan-choudhary)
@@ -20,11 +20,10 @@ Ship, measure bottlenecks, iterate.
 - Contests to sharpen fundamentals (CF **1913** • CodeChef **4★ 1817**)
 
 ### Highlights (tldr)
-- **CP:** Codeforces Candidate Master (**1913**) — [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18) • CodeChef 4★ (**1817**) — [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
-- **All India Rank 42** — Naukri EROH Case Study Challenge (Deep Learning for Dark-Store Optimization)
+- **CP:** Codeforces Candidate Master (**1913**) - [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18) • CodeChef 4★ (**1817**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 - **Internships:**
-  - **BigBrick — Software Development Intern** (May 2025 – Oct 2025)
-  - **Shri Asharam Memorial Navjeevan Hospital — Biometric Data & AI Intern** (Dec 2024 – Feb 2025)
+  - **BigBrick - Software Development Intern** (May 2025 – Oct 2025)
+  - **Shri Asharam Memorial Navjeevan Hospital - Biometric Data & AI Intern** (Dec 2024 – Feb 2025)
 - **Academics:** B.Tech ECE @ NIT Srinagar (CGPA **8.29/10**) • **State Rank 1** (Class 12, **100%**) • **Subdivision Rank 1** (Class 10, **95.67%**)
 
 ---
