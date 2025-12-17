@@ -25,7 +25,7 @@ Ship, measure bottlenecks, iterate.
 - **Internships:**
   - **BigBrick — Software Development Intern** (May 2025 – Oct 2025)
   - **Shri Asharam Memorial Navjeevan Hospital — Biometric Data & AI Intern** (Dec 2024 – Feb 2025)
-- **Academics:** B.Tech ECE @ NIT Srinagar (CGPA **8.29/10**) • **District Rank 1** (Class 12, **100%**) • **Subdivision Rank 1** (Class 10, **95.67%**)
+- **Academics:** B.Tech ECE @ NIT Srinagar (CGPA **8.29/10**) • **State Rank 1** (Class 12, **100%**) • **Subdivision Rank 1** (Class 10, **95.67%**)
 
 ---
 
