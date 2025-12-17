@@ -19,19 +19,21 @@ Ship, measure bottlenecks, iterate.
 - Contests to sharpen fundamentals (CF **1913** • CodeChef **4**<span style="color:#f1c40f"><b>★</b></span> **1817**)
 
 ### Highlights (tldr)
-- **Codeforces** <span style="color:#ff69b4"><b>Candidate Master</b></span> — Rating **1913** (Global Rank **89** in CF Round 1057 Div.2 among 23k+) — [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18)
+- **Codeforces** <span style="color:#ff69b4"><b>Candidate Master</b></span> — Rating **1913** — [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18)
 - **CodeChef 4**<span style="color:#f1c40f"><b>★</b></span> — Rating **1817** — [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 - **All India Rank 42** — Naukri EROH Case Study Challenge (Deep Learning for Dark-Store Optimization)
-- **Internships:** BigBrick (SDE Intern) • Shri Asharam Memorial Navjeevan Hospital (Biometric Data & AI Intern)
+- **Internships:**
+  - **BigBrick** — Software Development Intern (May 2025 – Oct 2025): 15+ production enhancements, Lighthouse **92/100**, +18% matching accuracy
+  - **Shri Asharam Memorial Navjeevan Hospital** — Biometric Data & AI Intern (Dec 2024 – Feb 2025): Siamese verification **98.6%**, 400+ daily transactions
 - **Academics:** B.Tech ECE @ NIT Srinagar (CGPA **8.29/10**) • **District Rank 1** (Class 12, **100%**) • **Subdivision Rank 1** (Class 10, **95.67%**)
 
 ---
 
 ### Worked with (tech stack)
-- **Languages**: C++ • Python • TypeScript • JavaScript
+- **Languages**: C++ • Java • Go • Python • TypeScript • JavaScript
 - **Frontend**: React • Next.js • Tailwind CSS • shadcn/ui
 - **Backend**: Node.js • Express.js • FastAPI • PostgreSQL (Neon/Supabase)
-- **ML**: PyTorch • TensorFlow.js
+- **ML**: PyTorch • TensorFlow • NumPy • Pandas • TensorFlow.js
 - **Tools**: Docker • Git
 - **CP**:  
   ![Codeforces](https://img.shields.io/badge/Codeforces-1913-1F8ACB?logo=codeforces&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85%20%7C%201817-5B4638?logo=codechef&logoColor=white)
@@ -81,14 +83,6 @@ Ship, measure bottlenecks, iterate.
     </td>
   </tr>
 </table>
-
----
-
-### Experience
-- **Software Development Intern — BigBrick** (May 2025 – Oct 2025)  
-  Shipped 15+ production enhancements, improved Lighthouse to **92/100**, integrated FastAPI AI services (+18% matching accuracy), added i18n for 5 Indian languages.
-- **Biometric Data & AI Intern — Shri Asharam Memorial Navjeevan Hospital** (Dec 2024 – Feb 2025)  
-  Built Siamese Network verification (**98.6%**) + FastAPI pipeline; engineered Node/Express backend services supporting **400+ daily** transactions (99.5% uptime).
 
 ---
 
