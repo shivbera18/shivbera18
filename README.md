@@ -1,7 +1,7 @@
 ## Hi, I'm **Shiv** 👋
 
 - **Full-stack engineer** - I like building scalable systems and optimizing for performance.
-- **Competitive programmer** - Candidate Master @ Codefrocees (**1913**) - [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18) | CodeChef 4★ (**1817**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
+- **Competitive programmer** - Exopert @ Codefrocees (**1785**) - [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18) | CodeChef 4★ (**1951**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 
 **Portfolio:** [shivcdhry.live](https://shivcdhry.live)  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shiv-ratan-choudhary)
@@ -15,7 +15,7 @@ Ship, measure bottlenecks, iterate.
 ### Notes from the grind
 - Shipping full-stack apps end-to-end (Next.js/React → Node/FastAPI → Postgres) with a focus on clean UX and fast APIs
 - Performance + reliability work (profiling, DB indexes, caching patterns, clean APIs)
-- Contests to sharpen fundamentals (CF **1913** • CodeChef **4★ 1817**)
+- Contests to sharpen fundamentals (CF **1785** • CodeChef **4★ 1951**)
 
 ### Highlights (tldr)
 - **CP:** Codeforces Candidate Master (**1913**) - [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18) • CodeChef 4★ (**1817**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
