@@ -32,7 +32,7 @@ Ship, measure bottlenecks, iterate.
 - **Backend**: Bun, Node.js, Express.js, FastAPI, PostgreSQL, MongoDB
 - **ML**: PyTorch, NumPy, Pandas, scikit-learn, TensorFlow.js
 - **Tools**: Docker, Git
-- **CP**: [![Codeforces](https://img.shields.io/badge/Codeforces-1913-555?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shivchoudhary.18) [![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85%201817-555?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/fast_sand_38)
+- **CP**: [![Codeforces](https://img.shields.io/badge/Codeforces-1785-555?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shivchoudhary.18) [![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85%201951-555?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/fast_sand_38)
 
 ---
 
