@@ -1,7 +1,7 @@
 ## Hi, I'm **Shiv** 👋
 
 - **Full-stack engineer** - I like building scalable systems and optimizing for performance.
-- **Competitive programmer** - Expert @ Codefrocees (**1785**) - [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18) | CodeChef 4★ (**1951**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
+- **Competitive programmer** - Expert @ Codefrocees (**1785**) - [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18) | CodeChef 4★ (**1952**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 
 **Portfolio:** [shivcdhry.live](https://shivcdhry.live?utm_source=githubprofile)  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shiv-ratan-choudhary)
@@ -15,10 +15,10 @@ Ship, measure bottlenecks, iterate.
 ### Notes from the grind
 - Shipping full-stack apps end-to-end (Next.js/React → Node/FastAPI → Postgres) with a focus on clean UX and fast APIs
 - Performance + reliability work (profiling, DB indexes, caching patterns, clean APIs)
-- Contests to sharpen fundamentals (CF **1785** • CodeChef **4★ 1951**)
+- Contests to sharpen fundamentals (CF **1785** • CodeChef **4★ 1952**)
 
 ### Highlights (tldr)
-- **CP:** Codeforces Candidate Master (**1913**) - [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18) • CodeChef 4★ (**1817**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
+- **CP:** Codeforces Expert (**1785**) - [shivchoudhary.18](https://codeforces.com/profile/shivchoudhary.18) • CodeChef 4★ (**1952**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 - **Internships:**
   - **BigBrick - Software Development Intern** (May 2025 – Oct 2025)
   - **Shri Asharam Memorial Navjeevan Hospital - Biometric Data & AI Intern** (Dec 2024 – Feb 2025)
@@ -32,7 +32,7 @@ Ship, measure bottlenecks, iterate.
 - **Backend**: Bun, Node.js, Express.js, FastAPI, PostgreSQL, MongoDB
 - **ML**: PyTorch, NumPy, Pandas, scikit-learn, TensorFlow.js
 - **Tools**: Docker, Git
-- **CP**: [![Codeforces](https://img.shields.io/badge/Codeforces-1785-555?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shivchoudhary.18) [![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85%201951-555?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/fast_sand_38)
+- **CP**: [![Codeforces](https://img.shields.io/badge/Codeforces-1785-555?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shivchoudhary.18) [![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85%201952-555?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/fast_sand_38)
 
 ---
 
