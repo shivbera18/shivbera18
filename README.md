@@ -1,7 +1,7 @@
 ## Hi, I'm **Shiv** 👋
 
 - **Full-stack engineer** - I like building scalable systems and optimizing for performance.
-- **Competitive programmer** - CodeChef 4★ (**1952**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
+- **Competitive programmer** - CodeChef 5★ (**2040**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 
 **Portfolio:** [shivcdhry.live](https://shivcdhry.live?utm_source=githubprofile)  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shiv-ratan-choudhary)
@@ -15,10 +15,10 @@ Ship, measure bottlenecks, iterate.
 ### Notes from the grind
 - Shipping full-stack apps end-to-end (Next.js/React → Node/FastAPI → Postgres) with a focus on clean UX and fast APIs
 - Performance + reliability work (profiling, DB indexes, caching patterns, clean APIs)
-- Contests to sharpen fundamentals (CF **1785** • CodeChef **4★ 1952**)
+- Contests to sharpen fundamentals (CF **1785** • CodeChef **5★ 2040**)
 
 ### Highlights (tldr)
-- **CP:** CodeChef 4★ (**1952**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
+- **CP:** CodeChef 4★ (**2040**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 - **Internships:**
   - **BigBrick - Software Development Intern** (May 2025 – Oct 2025)
   - **Shri Asharam Memorial Navjeevan Hospital - Biometric Data & AI Intern** (Dec 2024 – Feb 2025)
@@ -27,12 +27,12 @@ Ship, measure bottlenecks, iterate.
 ---
 
 ### Worked with (tech stack)
-- **Languages**: C++, JavaScript, Java, Go, Python, TypeScript
+- **Languages**: C++, JavaScript, Java, Go, Python, 
 - **Frontend**: React, Next.js, Tailwind CSS, shadcn/ui, Redux
 - **Backend**: Bun, Node.js, Express.js, FastAPI, PostgreSQL, MongoDB
 - **ML**: PyTorch, NumPy, Pandas, scikit-learn, TensorFlow.js
 - **Tools**: Docker, Git
-- **CP**:[![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85%201952-555?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/fast_sand_38)
+- **CP**:[![CodeChef](https://img.shields.io/badge/CodeChef-4%E2%98%85%202040-555?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/fast_sand_38)
 
 ---
 
