@@ -15,10 +15,10 @@ Ship, measure bottlenecks, iterate.
 ### Notes from the grind
 - Shipping full-stack apps end-to-end (Next.js/React → Node/FastAPI → Postgres) with a focus on clean UX and fast APIs
 - Performance + reliability work (profiling, DB indexes, caching patterns, clean APIs)
-- Contests to sharpen fundamentals (CF **1785** • CodeChef **5★ 2040**)
+- Contests to sharpen fundamentals (CodeChef **5★ 2040**)
 
 ### Highlights (tldr)
-- **CP:** CodeChef 4★ (**2040**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
+- **CP:** CodeChef 5★ (**2040**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 - **Internships:**
   - **BigBrick - Software Development Intern** (May 2025 – Oct 2025)
   - **Shri Asharam Memorial Navjeevan Hospital - Biometric Data & AI Intern** (Dec 2024 – Feb 2025)
