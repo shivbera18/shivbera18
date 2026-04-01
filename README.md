@@ -1,19 +1,14 @@
 ## Hi, I'm **Shiv** 👋
 
-
 **Portfolio:** [shivcdhry.live](https://shivcdhry.live?utm_source=githubprofile)  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shiv-ratan-choudhary)
 
 ---
 
-### A small story (why I build)
-I like building software the same way I approach contests: be clear, be fast, and be consistent.  
-Ship, measure bottlenecks, iterate.
-
-
 ### Highlights (tldr)
 - **CP:** CodeChef 5★ (**2040**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 - **Internships:**
+  - **Regie.ai - Intern** (Jan 2026 - Present) 
   - **BigBrick - Software Development Intern** (May 2025 – Oct 2025)
   - **Shri Asharam Memorial Navjeevan Hospital - Biometric Data & AI Intern** (Dec 2024 – Feb 2025)
 - **Academics:** B.Tech ECE @ NIT Srinagar (CGPA **8.29/10**) • **State Rank 1** (Class 12, **100%**) • **Subdivision Rank 1** (Class 10, **95.67%**)
