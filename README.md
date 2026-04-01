@@ -1,7 +1,5 @@
 ## Hi, I'm **Shiv** 👋
 
-- **Full-stack engineer** - I like building scalable systems and optimizing for performance.
-- **Competitive programmer** - CodeChef 5★ (**2040**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
 
 **Portfolio:** [shivcdhry.live](https://shivcdhry.live?utm_source=githubprofile)  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shiv-ratan-choudhary)
@@ -12,10 +10,6 @@
 I like building software the same way I approach contests: be clear, be fast, and be consistent.  
 Ship, measure bottlenecks, iterate.
 
-### Notes from the grind
-- Shipping full-stack apps end-to-end (Next.js/React → Node/FastAPI → Postgres) with a focus on clean UX and fast APIs
-- Performance + reliability work (profiling, DB indexes, caching patterns, clean APIs)
-- Contests to sharpen fundamentals (CodeChef **5★ 2040**)
 
 ### Highlights (tldr)
 - **CP:** CodeChef 5★ (**2040**) - [fast_sand_38](https://www.codechef.com/users/fast_sand_38)
