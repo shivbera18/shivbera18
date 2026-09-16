@@ -3,7 +3,7 @@
 [portfolio](https://shivcdhry.live?utm_source=githubprofile) • [linkedin](https://linkedin.com/in/shiv-ratan-choudhary) • [blog](https://www.shivcdhry.live/blog) • [email](mailto:shivbera45@gmail.com)
 
 - 🔭 engineering @ [Regie.ai](https://regie.ai) — building & shipping ai for sales (prev @ BigBrick)
-- 🌱 into systems, search infra & applied ai
+- 🌱 backend dev into systems & applied ai
 - 👨‍💻 building & shipping at [shivcdhry.live](https://shivcdhry.live?utm_source=githubprofile) — checkout my work there
 - 📝 i write about databases & system design at [shivcdhry.live/blog](https://www.shivcdhry.live/blog)
 - 🛠️ stack:<br>
