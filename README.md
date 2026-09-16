@@ -16,9 +16,6 @@
 ### selected work
 - [artemus](https://github.com/shivbera18/quiz-repo) — ai banking exam platform · [live](https://artimusquiz.vercel.app)
 - [fyndr](https://github.com/shivbera18/Fyndr) — local services discovery · [live](https://fyndr-gamma.vercel.app)
-- [autosec](https://github.com/shivbera18/AutoSec) — automated security scanner · [live](https://auto-sec-three.vercel.app)
-- [quiz-microservice](https://github.com/shivbera18/quiz-repo-microservice) — quiz backend on microservices · [live](https://quiz-repo-microservice-web.vercel.app)
-- [spur-chatbot](https://github.com/shivbera18/spur-ai-chatbot) — ai support chatbot · [live](https://spur-ai-chatbot.vercel.app)
 - [cloud-agent](https://github.com/shivbera18/cloud-agent) — cloud deploy agent · [live](https://web-gules-eight-56.vercel.app)
 - [matrix-mul](https://github.com/shivbera/matrix-mul) — strassen/winograd + deepmind optimization
 - [style-transfer](https://github.com/shivbera18/arbitrary-style-transfer) — in-browser tf.js transfer · [live](https://nextjs-app-tau-ruddy.vercel.app)
