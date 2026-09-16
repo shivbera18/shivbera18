@@ -1,10 +1,6 @@
-<h1 align="center">Hey, I'm Shiv</h1>
-<p align="center">
-<a href="https://shivcdhry.live?utm_source=githubprofile">portfolio</a> •
-<a href="https://linkedin.com/in/shiv-ratan-choudhary">linkedin</a> •
-<a href="https://www.shivcdhry.live/blog">blog</a> •
-<a href="mailto:shivbera45@gmail.com">email</a>
-</p>
+<h1>Hey, I'm Shiv</h1>
+
+[portfolio](https://shivcdhry.live?utm_source=githubprofile) • [linkedin](https://linkedin.com/in/shiv-ratan-choudhary) • [blog](https://www.shivcdhry.live/blog) • [email](mailto:shivbera45@gmail.com)
 
 - 🔭 engineering @ [Regie.ai](https://regie.ai) — building & shipping ai for sales (prev @ BigBrick)
 - 🌱 into systems, search infra & applied ai
