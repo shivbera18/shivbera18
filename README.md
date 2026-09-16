@@ -1,11 +1,11 @@
 <h1>Hey, I'm Shiv</h1>
 
-[portfolio](https://shivcdhry.live?utm_source=githubprofile) • [linkedin](https://linkedin.com/in/shiv-ratan-choudhary) • [blog](https://www.shivcdhry.live/blog) • [email](mailto:shivbera45@gmail.com)
+[portfolio](https://shivcdhry.vercel.app?utm_source=githubprofile) • [linkedin](https://linkedin.com/in/shiv-ratan-choudhary) • [blog](https://shivcdhry.vercel.app/blog) • [email](mailto:shivbera45@gmail.com)
 
 - 🔭 engineering @ [Regie.ai](https://regie.ai) — building & shipping ai for sales (prev @ BigBrick)
 - 🌱 backend dev into systems & applied ai
-- 👨‍💻 building & shipping at [shivcdhry.live](https://shivcdhry.live?utm_source=githubprofile) — checkout my work there
-- 📝 i write about databases & system design at [shivcdhry.live/blog](https://www.shivcdhry.live/blog)
+- 👨‍💻 building & shipping at [shivcdhry.vercel.app](https://shivcdhry.vercel.app?utm_source=githubprofile) — checkout my work there
+- 📝 i write about databases & system design at [shivcdhry.vercel.app/blog](https://shivcdhry.vercel.app/blog)
 - 🛠️ stack:<br>
   `langs → c++ • go • python • typescript`<br>
   `web → react/next • bun/node • fastapi • postgres • mongo • redis • kafka`<br>
@@ -22,9 +22,9 @@
 - [clone-detector](https://github.com/shivbera18/CloneCodeDetection) — siamese bilstm, 50m params
 - [rubiks-solver](https://github.com/shivbera18/Rubiks-Cube-Solver) — 3×3 + IDA*
 ### writings
-- [Why Instacart Ditched Elasticsearch for Postgres](https://www.shivcdhry.live/blog/elasticsearch-vs-postgres-search)
-- [Choosing Databases Like a Senior Engineer](https://www.shivcdhry.live/blog/pick-the-right-database)
-- [Poverty & Women Employment Correlation](https://www.shivcdhry.live/blog/economics-poverty-women-employment-correlation)
+- [Why Instacart Ditched Elasticsearch for Postgres](https://shivcdhry.vercel.app/blog/elasticsearch-vs-postgres-search)
+- [Choosing Databases Like a Senior Engineer](https://shivcdhry.vercel.app/blog/pick-the-right-database)
+- [Poverty & Women Employment Correlation](https://shivcdhry.vercel.app/blog/economics-poverty-women-employment-correlation)
 
 
 
