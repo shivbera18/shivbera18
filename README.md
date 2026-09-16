@@ -1,11 +1,11 @@
 <h1>Hey, I'm Shiv</h1>
 
-[portfolio](https://shivcdhry.vercel.app?utm_source=githubprofile) • [linkedin](https://linkedin.com/in/shiv-ratan-choudhary) • [blog](https://shivcdhry.vercel.app/blog) • [email](mailto:shivbera45@gmail.com)
+[shivcdhry.live](https://shivcdhry.vercel.app?utm_source=githubprofile) • [linkedin](https://linkedin.com/in/shiv-ratan-choudhary) • [blog](https://shivcdhry.vercel.app/blog) • [email](mailto:shivbera45@gmail.com)
 
 - 🔭 engineering @ [Regie.ai](https://regie.ai) — building & shipping ai for sales (prev @ BigBrick)
 - 🌱 backend dev into systems & applied ai
-- 👨‍💻 building & shipping at [shivcdhry.vercel.app](https://shivcdhry.vercel.app?utm_source=githubprofile) — checkout my work there
-- 📝 i write about databases & system design at [shivcdhry.vercel.app/blog](https://shivcdhry.vercel.app/blog)
+- 👨‍💻 building & shipping at [shivcdhry.live](https://shivcdhry.vercel.app?utm_source=githubprofile) — checkout my work there
+- 📝 i write about databases & system design at [shivcdhry.live/blog](https://shivcdhry.vercel.app/blog)
 - 🛠️ stack:<br>
   `langs → c++ • go • python • typescript`<br>
   `web → react/next • bun/node • fastapi • postgres • mongo • redis • kafka`<br>
